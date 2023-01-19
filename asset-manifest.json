@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.74d15521.css",
+    "main.js": "/portfolio-react/static/js/main.ea9af4f3.js",
+    "static/media/project-two.png": "/portfolio-react/static/media/project-two.8cedc8dd4c9c248582e4.png",
+    "static/media/pic-one.jpg": "/portfolio-react/static/media/pic-one.64df6f405733aee1fe05.jpg",
+    "static/media/project-one.png": "/portfolio-react/static/media/project-one.595a015ad8d62fcfdd28.png",
+    "static/media/Resume.pdf": "/portfolio-react/static/media/Resume.33d49ea4d4d405f55684.pdf",
+    "static/media/alice.jpg": "/portfolio-react/static/media/alice.c9bf92a26787beda7ac0.jpg",
+    "static/media/schedule-planner.png": "/portfolio-react/static/media/schedule-planner.84159359d4425acc3c8e.png",
+    "static/media/password.png": "/portfolio-react/static/media/password.e7edf9aa9bbea8cedcf0.png",
+    "static/media/code-quiz.png": "/portfolio-react/static/media/code-quiz.c0fb5d36bb093a6ea98a.png",
+    "index.html": "/portfolio-react/index.html",
+    "main.74d15521.css.map": "/portfolio-react/static/css/main.74d15521.css.map",
+    "main.ea9af4f3.js.map": "/portfolio-react/static/js/main.ea9af4f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74d15521.css",
+    "static/js/main.ea9af4f3.js"
+  ]
+}
